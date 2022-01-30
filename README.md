@@ -1,4 +1,4 @@
-*********************************************************** LIFE STORY ***********************************************************
+***************************************** LIFE STORY ******************************************
 
 Hey! Hie Everyone...
         My name is SAIE SURAJ VADKE Student at Savitribai Phule Pune University (Computer Engineer). I have Completed various certifications at SevenMentor Pvt Ltd Pune.
