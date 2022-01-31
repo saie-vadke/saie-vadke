@@ -12,7 +12,7 @@ Hey! Hie Everyone...
                        -Successfully Completed “Introduction to Amazon Elastic Compute Cloud (EC2)”
                        -Successfully Completed “Introduction to EC2 Auto Scaling”
                        -Successfully Completed “AWS Cloud Partitioner Essentials”
-                    c. Qwiklabs OR Google Cloud:
+                    C. Qwiklabs OR Google Cloud:
                        https://www.cloudskillsboost.google/public_profiles/f6a610df-4199-401f-b2f2-55213a1e3f5d 
         Follow me to work with me on many exciting knowledge such as CCNA, LINUX, AWS and GCP
                         --- I'm currently a fresher
